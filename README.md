@@ -1,6 +1,6 @@
 # dspy-phi3
 
-Connect with me on linkedin if you have an intersting project/common interests. https://www.linkedin.com/in/mayankladdha31/
+Please star this repo and connect with me on linkedin if you have an intersting project/common interests. https://www.linkedin.com/in/mayankladdha31/
 
 I recently tested DSPy with phi3, aiming to use COPRO to refine the prompt instructions and achieve the best score.
 
