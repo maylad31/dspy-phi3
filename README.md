@@ -8,8 +8,8 @@ Here’s what I liked:
 
 I used the CoLA dataset, which includes sentences from 23 linguistic publications annotated for grammaticality, I wanted outputs with "just the label" (no explanations or extra words). DSPy generated instructions that performed well, ensuring grammatical correctness:
 
-** Original Instruction: Check if the sentence is correct(1) or not(0) **
-** Optimized Instruction: Determine if the given sentence adheres to standard English grammar rules by outputting a '1' for grammatically correct and '0' for incorrect. **
+**Original Instruction: Check if the sentence is correct(1) or not(0)**
+**Optimized Instruction: Determine if the given sentence adheres to standard English grammar rules by outputting a '1' for grammatically correct and '0' for incorrect.**
 
 Both the BootstrapFewShot and Signature Optimizer are great starting points.
 
