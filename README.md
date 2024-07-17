@@ -1,6 +1,5 @@
 # dspy-phi3
 
-Please star this repo and connect with me on linkedin if you have an intersting project/common interests. https://www.linkedin.com/in/mayankladdha31/
 
 I recently tested DSPy with phi3, aiming to use COPRO to refine the prompt instructions and achieve the best score. I intentionally did not use assertions.
 
@@ -19,3 +18,4 @@ What could be improved:
 DSPy states, "Once the training is done, you’ll have better instructions and prefixes to edit in the signature manually." However, I believe that post-compilation, the tool should be ready to predict. The instruction optimizer needs more flexibility for easier tweaking, such as better compatibility with other languages. Alternatively, creating a program for the signature optimizer to tweak prompts as needed would be beneficial.
 
 It is a cool concept but I guess as a framework it still needs improvement.
+Connect with me on linkedin if you have an intersting project/common interests. https://www.linkedin.com/in/mayankladdha31/
