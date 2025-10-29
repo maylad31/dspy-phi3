@@ -1,5 +1,5 @@
 # dspy-phi3
-
+Haven't updated it for some time. DSPy might have changd a lot since then.
 
 I recently tested DSPy with phi3, aiming to use COPRO to refine the prompt instructions and achieve the best score. I intentionally did not use assertions.
 
